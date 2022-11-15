@@ -1,4 +1,7 @@
 # Lab 7 - Starter
-2 collaborators for lab 7:
-Jihun Park
+<br />
+Jihun Park, 
+<br />
 Chil-lin Wang
+<br />
+https://jip002.github.io/Lab7_Starter/
